@@ -26,9 +26,5 @@ namespace TP_POO_Héritage
             Console.WriteLine("Mon nom est {0}, j'habite dans {1}, mon crie est le {2} et je suis un animal {3}", this.nom, this.LieuHabitation, this.monCrie, this.jeSuisDomestique);
         }
 
-        public void JeSuisDangereux()
-        {
-
-        }
     }
 }
